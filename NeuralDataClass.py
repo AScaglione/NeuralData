@@ -12,6 +12,7 @@ Class is based on dictionary built in class in python.
 
 
 
+
 Created on Thu Oct 24 16:07:49 2013
 
 @author: Alessandro Scaglione
