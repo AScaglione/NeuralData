@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 
-General class for importing and working with neural data, class is based on dictionary built in class of python. 
+General class for importing and working with neural data.
+Class is based on dictionary built in class in python. 
 
 
 
